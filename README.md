@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/2429aef9-c9ca-4a59-9426-a8508edd45cc
 
 
 
-```markdown
+
 # Navigation-Bar
 
 A responsive and interactive navigation bar built using HTML, CSS, and JavaScript. This navigation bar can be toggled between a small and expanded mode with smooth animations. It supports icon-based navigation links and provides a dynamic user experience with active link highlighting.
